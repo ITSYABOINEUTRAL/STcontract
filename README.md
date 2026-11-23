@@ -718,3 +718,6 @@ MIT
 
 <!-- handsoff-issue-91 -->
 - #91: Test waitlist promotion never exceeds course capacity
+
+<!-- handsoff-issue-92 -->
+- #92: Test waitlist promotion order is FIFO
