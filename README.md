@@ -721,3 +721,6 @@ MIT
 
 <!-- handsoff-issue-92 -->
 - #92: Test waitlist promotion order is FIFO
+
+<!-- handsoff-issue-93 -->
+- #93: Test duplicate waitlist joins are idempotent or rejected
